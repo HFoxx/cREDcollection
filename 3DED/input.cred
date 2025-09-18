@@ -1,0 +1,13 @@
+cameraname = BM-Ceta
+exposuretime = 2
+binning = 8
+degreespeed = 0.2
+startangle = 40
+endangle = 65
+filesavepath = H:/GUEST/xuhuifang/20231230-greenlite/1/3DED
+freetime = 0.15
+drift_step = 5
+drift_exposuretime = 1
+drift_binning = 2
+drift_image_save = 0
+beamstop = full

@@ -1,0 +1,42 @@
+{
+    "Exposure_Time": 2.0,
+    "path": "",
+    "binning": 8,
+    "output_dir": "./test/",
+    "Start_Angle": -50.0,
+    "End_Angle": 68.0,
+    "Degree_Speed": 0.25,
+    "intensity_factor": 0.01,
+    "fineinc": 1,
+    "Start_tilt": 20,
+    "titl_max": 85,
+    "Start_inc": 10,
+    "Free_Time": 0.2,
+    "drift_step": 2.0,
+    "Drift_Exposure_Time": 2.0,
+    "cameraname": "BM-Ceta",
+    "degreespeed": 0.2,
+    "startangle": 40,
+    "endangle": 65,
+    "drift_exposuretime": 0.3,
+    "drift_binning": "1",
+    "drift_image_save": 0,
+    "beamstop": "full",
+    "methods": "red_man",
+    "Drift_Correction": "no_correct",
+    "filesavepath": "D:/CE6",
+    "is_save": true,
+    "drift_Exposure_Time": 0.5,
+    "current_path": "D:\\CE6\\ETV1.0_first\\3DED",
+    "screen_coordinates": [
+        833,
+        95
+    ],
+    "Methods_3DED": [
+        {
+            "velox": [
+                "no_correct"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,583 @@
+{
+  "Particle_Searching": "Particle_Searching",
+  "Tutorial_pdf_filepath": "Tutorial.pdf",
+  "Examples_filepath": "Examples",
+  "stepsize_scope": [
+    0.1,
+    1,
+    10,
+    20,
+    5
+  ],
+  "magnification_data": [
+    {
+      "index": 1,
+      "magnification": 25.0,
+      "camera_length": 0.013999999999999999
+    },
+    {
+      "index": 2,
+      "magnification": 34.0,
+      "camera_length": 0.019
+    },
+    {
+      "index": 3,
+      "magnification": 46.0,
+      "camera_length": 0.027000000000000003
+    },
+    {
+      "index": 4,
+      "magnification": 62.0,
+      "camera_length": 0.035
+    },
+    {
+      "index": 5,
+      "magnification": 84.0,
+      "camera_length": 0.047
+    },
+    {
+      "index": 6,
+      "magnification": 114.99999999999999,
+      "camera_length": 0.06
+    },
+    {
+      "index": 7,
+      "magnification": 155.0,
+      "camera_length": 0.077
+    },
+    {
+      "index": 8,
+      "magnification": 210.0,
+      "camera_length": 0.098
+    },
+    {
+      "index": 9,
+      "magnification": 280.0,
+      "camera_length": 0.125
+    },
+    {
+      "index": 10,
+      "magnification": 380.0,
+      "camera_length": 0.16000000000000003
+    },
+    {
+      "index": 11,
+      "magnification": 509.99999999999994,
+      "camera_length": 0.205
+    },
+    {
+      "index": 12,
+      "magnification": 700.0,
+      "camera_length": 0.26
+    },
+    {
+      "index": 13,
+      "magnification": 940.0,
+      "camera_length": 0.33
+    },
+    {
+      "index": 14,
+      "magnification": 1300.0,
+      "camera_length": 0.41
+    },
+    {
+      "index": 15,
+      "magnification": 1700.0,
+      "camera_length": 0.52
+    },
+    {
+      "index": 16,
+      "magnification": 2300.0,
+      "camera_length": 0.66
+    },
+    {
+      "index": 17,
+      "magnification": 2050.0,
+      "camera_length": 0.8400000000000001
+    },
+    {
+      "index": 18,
+      "magnification": 2600.0,
+      "camera_length": 1.1
+    },
+    {
+      "index": 19,
+      "magnification": 3300.0,
+      "camera_length": 1.35
+    },
+    {
+      "index": 20,
+      "magnification": 4300.0,
+      "camera_length": 1.75
+    },
+    {
+      "index": 21,
+      "magnification": 5500.0,
+      "camera_length": 2.2
+    },
+    {
+      "index": 22,
+      "magnification": 7000.0,
+      "camera_length": 2.8
+    },
+    {
+      "index": 23,
+      "magnification": 8600.0,
+      "camera_length": 3.6
+    },
+    {
+      "index": 24,
+      "magnification": 11000.0,
+      "camera_length": 4.5
+    },
+    {
+      "index": 25,
+      "magnification": 14000.0,
+      "camera_length": 5.7
+    },
+    {
+      "index": 26,
+      "magnification": 17500.0
+    },
+    {
+      "index": 27,
+      "magnification": 22500.0
+    },
+    {
+      "index": 28,
+      "magnification": 28500.0
+    },
+    {
+      "index": 29,
+      "magnification": 36000.0
+    },
+    {
+      "index": 30,
+      "magnification": 46000.0
+    },
+    {
+      "index": 31,
+      "magnification": 58000.0
+    },
+    {
+      "index": 32,
+      "magnification": 74000.0
+    },
+    {
+      "index": 33,
+      "magnification": 94000.0
+    },
+    {
+      "index": 34,
+      "magnification": 120000.0
+    },
+    {
+      "index": 35,
+      "magnification": 150000.0
+    },
+    {
+      "index": 36,
+      "magnification": 190000.0
+    },
+    {
+      "index": 37,
+      "magnification": 245000.00000000003
+    },
+    {
+      "index": 38,
+      "magnification": 310000.0
+    },
+    {
+      "index": 39,
+      "magnification": 390000.0
+    },
+    {
+      "index": 40,
+      "magnification": 500000.0
+    },
+    {
+      "index": 41,
+      "magnification": 630000.0
+    },
+    {
+      "index": 42,
+      "magnification": 650000.0
+    },
+    {
+      "index": 43,
+      "magnification": 819999.9999999999
+    },
+    {
+      "index": 44,
+      "magnification": 1050000.0
+    }
+  ],
+  "STEM_pixel_data": [
+    {
+      "magnification": 5000,
+      "pixel_size(nm)": 11.8
+    },
+    {
+      "magnification": 7000,
+      "pixel_size(nm)": 8.4
+    },
+    {
+      "magnification": 9900,
+      "pixel_size(nm)": 5.9
+    },
+    {
+      "magnification": 14000,
+      "pixel_size(nm)": 4.2
+    },
+    {
+      "magnification": 20000,
+      "pixel_size(nm)": 2.94
+    },
+    {
+      "magnification": 28000,
+      "pixel_size(nm)": 2.14
+    },
+    {
+      "magnification": 40000,
+      "pixel_size(nm)": 1.49
+    },
+    {
+      "magnification": 56000,
+      "pixel_size(nm)": 1.07
+    },
+    {
+      "magnification": 79000,
+      "pixel_size(nm)": 0.757
+    },
+    {
+      "magnification": 110000.0,
+      "pixel_size(nm)": 0.544
+    },
+    {
+      "magnification": 160000.0,
+      "pixel_size(nm)": 0.374
+    },
+    {
+      "magnification": 225000.0,
+      "pixel_size(nm)": 0.266
+    },
+    {
+      "magnification": 320000.0,
+      "pixel_size(nm)": 0.187
+    },
+    {
+      "magnification": 450000.0,
+      "pixel_size(nm)": 0.134
+    },
+    {
+      "magnification": 630000.0,
+      "pixel_size(nm)": 0.0958
+    },
+    {
+      "magnification": 900000.0,
+      "pixel_size(nm)": 0.0671
+    },
+    {
+      "magnification": 1250000.0,
+      "pixel_size(nm)": 0.0483
+    },
+    {
+      "magnification": 1800000.0,
+      "pixel_size(nm)": 0.0335
+    },
+    {
+      "magnification": 2550000.0,
+      "pixel_size(nm)": 0.0237
+    },
+    {
+      "magnification": 3600000.0,
+      "pixel_size(nm)": 0.0168
+    },
+    {
+      "magnification": 5100000.0,
+      "pixel_size(nm)": 0.0118
+    },
+    {
+      "magnification": 7200000.0,
+      "pixel_size(nm)": 0.00838
+    },
+    {
+      "magnification": 10000000.0,
+      "pixel_size(nm)": 0.00604
+    },
+    {
+      "magnification": 14500000.0,
+      "pixel_size(nm)": 0.00416
+    },
+    {
+      "magnification": 20500000.0,
+      "pixel_size(nm)": 0.00294
+    },
+    {
+      "magnification": 28500000.0,
+      "pixel_size(nm)": 0.00212
+    },
+    {
+      "magnification": 41000000.0,
+      "pixel_size(nm)": 0.00147
+    },
+    {
+      "magnification": 57000000.0,
+      "pixel_size(nm)": 0.00106
+    },
+    {
+      "magnification": 81000000.0,
+      "pixel_size(nm)": 0.000745
+    },
+    {
+      "magnification": 115000000.0,
+      "pixel_size(nm)": 0.000525
+    },
+    {
+      "magnification": 160000000.0,
+      "pixel_size(nm)": 0.000377
+    },
+    {
+      "magnification": 230000000.0,
+      "pixel_size(nm)": 0.000262
+    },
+    {
+      "magnification": 320000000.0,
+      "pixel_size(nm)": 0.000189
+    }
+  ],
+  "pixel_data": [
+    {
+      "magnification": 2050,
+      "pixel_size(nm)": 7.71
+    },
+    {
+      "magnification": 2600,
+      "pixel_size(nm)": 5.98
+    },
+    {
+      "magnification": 3300,
+      "pixel_size(nm)": 4.58
+    },
+    {
+      "magnification": 4300,
+      "pixel_size(nm)": 3.46
+    },
+    {
+      "magnification": 5500,
+      "pixel_size(nm)": 2.68
+    },
+    {
+      "magnification": 7000,
+      "pixel_size(nm)": 2.08
+    },
+    {
+      "magnification": 8600,
+      "pixel_size(nm)": 1.69
+    },
+    {
+      "magnification": 11000,
+      "pixel_size(nm)": 1.35
+    },
+    {
+      "magnification": 14000,
+      "pixel_size(nm)": 1.07
+    },
+    {
+      "magnification": 17500.0,
+      "pixel_size(nm)": 0.833
+    },
+    {
+      "magnification": 22500.0,
+      "pixel_size(nm)": 0.661
+    },
+    {
+      "magnification": 28500.0,
+      "pixel_size(nm)": 0.525
+    },
+    {
+      "magnification": 36000.0,
+      "pixel_size(nm)": 0.410
+    },
+    {
+      "magnification": 46000.0,
+      "pixel_size(nm)": 0.323
+    },
+    {
+      "magnification": 58000.0,
+      "pixel_size(nm)": 0.255
+    },
+    {
+      "magnification": 74000.0,
+      "pixel_size(nm)": 0.2
+    },
+    {
+      "magnification": 94000.0,
+      "pixel_size(nm)": 0.158
+    },
+    {
+      "magnification": 120000.0,
+      "pixel_size(nm)": 0.124
+    },
+    {
+      "magnification": 150000.0,
+      "pixel_size(nm)": 0.0991
+    },
+    {
+      "magnification": 190000.0,
+      "pixel_size(nm)": 0.0777
+    },
+    {
+      "magnification": 245000.0,
+      "pixel_size(nm)": 0.0612
+    },
+    {
+      "magnification": 310000.0,
+      "pixel_size(nm)": 0.0480
+    },
+    {
+      "magnification": 390000.0,
+      "pixel_size(nm)": 0.0379
+    },
+    {
+      "magnification": 500000.0,
+      "pixel_size(nm)": 0.0295
+    },
+    {
+      "magnification": 630000.0,
+      "pixel_size(nm)": 0.0229
+    }
+  ],
+  "ed_pixel_size(1/A)":[
+    {
+      "cameralength": 1.35,
+      "pixel_size(1/A)": 0.000413
+    },
+    {
+      "cameralength": 1.1,
+      "pixel_size(1/A)": 0.000522
+    },
+    {
+      "cameralength": 0.8400000000000001,
+      "pixel_size(1/A)": 0.000670
+    },
+    {
+      "cameralength": 0.66,
+      "pixel_size(1/A)": 0.000908
+    },
+    {
+      "cameralength": 0.52,
+      "pixel_size(1/A)": 0.00114
+    },
+    {
+      "cameralength": 0.41,
+      "pixel_size(1/A)": 0.00144
+    },
+    {
+      "cameralength": 0.33,
+      "pixel_size(1/A)": 0.00169
+    }
+  ],    
+  "delay_time": [
+    {
+      "binning": 1,
+      "exposuretime": 0.5,
+      "delay_time": 3.20
+    },
+    {
+      "binning": 1,
+      "exposuretime": 1,
+      "delay_time": 3.75
+    },
+    {
+      "binning": 1,
+      "exposuretime": 2,
+      "delay_time": 4.72
+    },
+    {
+      "binning": 1,
+      "exposuretime": 3,
+      "delay_time": 5.71
+    },
+    {
+      "binning": 1,
+      "exposuretime": 4,
+      "delay_time": 6.71
+    },
+    {
+      "binning": 2,
+      "exposuretime": 0.5,
+      "delay_time": 2.22
+    },
+    {
+      "binning": 2,
+      "exposuretime": 1,
+      "delay_time": 2.65
+    },
+    {
+      "binning": 2,
+      "exposuretime": 2,
+      "delay_time": 3.64
+    },
+    {
+      "binning": 2,
+      "exposuretime": 3,
+      "delay_time": 4.63
+    },
+    {
+      "binning": 2,
+      "exposuretime": 4,
+      "delay_time": 5.65
+    },
+    {
+      "binning": 4,
+      "exposuretime": 0.5,
+      "delay_time": 1.92
+    },
+    {
+      "binning": 4,
+      "exposuretime": 1,
+      "delay_time": 2.37
+    },
+    {
+      "binning": 4,
+      "exposuretime": 2,
+      "delay_time": 3.38
+    },
+    {
+      "binning": 4,
+      "exposuretime": 3,
+      "delay_time": 4.37
+    },
+    {
+      "binning": 4,
+      "exposuretime": 4,
+      "delay_time": 5.37
+    },
+    {
+      "binning": 8,
+      "exposuretime": 0.5,
+      "delay_time": 1.85
+    },
+    {
+      "binning": 8,
+      "exposuretime": 1,
+      "delay_time": 2.30
+    },
+    {
+      "binning": 8,
+      "exposuretime": 2,
+      "delay_time": 3.29
+    },
+    {
+      "binning": 8,
+      "exposuretime": 3,
+      "delay_time": 4.31
+    },
+    {
+      "binning": 8,
+      "exposuretime": 4,
+      "delay_time": 5.30
+    }
+  ]
+}
